@@ -1,5 +1,5 @@
 # Project 3 - A Tale of Two Subreddits
-![Header image for Project 3](https://pixabay.com/get/g24530dd08d683512868446fc5fda6e59734b1cb0c48543c72ba263458e77824f35bd2f5f4cb0e6f7888e36e2e0b3e6d8_640.jpg)
+![Header image for Project 3](./assets/reddit_header.jpeg)
 ---
 ## Contents
 - [Background](#Background)
